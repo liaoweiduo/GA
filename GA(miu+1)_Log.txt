@@ -166,3 +166,162 @@ xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
 f(xbsf):50
 Time used:0.01292900000000001
 
+Parameter:
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:430
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.016484
+
+Parameter:
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:454
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.01747499999999999
+
+Parameter:
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:339
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.013023999999999994
+
+Parameter:
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:370
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.012387000000000009
+
+Parameter:
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:667
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.024540000000000006
+
+Parameter:
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:413
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.014152999999999999
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:438
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.017643000000000006
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:431
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.017144000000000006
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:364
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.015356999999999996
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:559
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.021788000000000002
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:427
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.016718999999999998
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:296
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.012562000000000004
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:495
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.022035
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:305
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.011852000000000001
+
+Parameter:
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:50
+n:267
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.010313000000000003
+

@@ -6,9 +6,6 @@ start = time.clock()
 
 '''Initialization phase'''
 
-print("Parameter:")
-print("worst individual environmental selection")
-
 miu = 20
 d = 50
 pm = 1 / d
@@ -32,6 +29,37 @@ def init():
             else:
                 x[i][j] = 1
 
+'''Mating Selection'''
+def randMS():
+    xa = random.randint(0, miu - 1)
+    xb = xa
+    while xb == xa:
+        xb = random.randint(0, miu  - 1)
+    return (xa, xb)
+
+def biTournamentMS():
+    xd = random.randint(0, miu - 1)
+    xe = xd
+    xf = xd
+    xg = xd
+    while xe == xd:
+        xe = random.randint(0, miu  - 1)
+    while xf == xd or xf ==xe:
+        xf = random.randint(0, miu  - 1)
+    while xg == xd or xg == xe or xg == xf:
+        xg = random.randint(0, miu  - 1)
+    if f[xd] > f[xe]:
+        xa = xd
+    else:
+        xa = xe
+    if f[xf] > f[xg]:
+        xb = xf
+    else:
+        xb = xg
+    return (xa, xb)
+
+
+'''Crossover'''
 def crossover(xa,xb):
     u = [0 for col in range(d)]
     for j in range(d):
@@ -83,10 +111,7 @@ while fxbsf < d and n < nmax:
         print('fxbsf=', fxbsf)
         print('xbsf=', xbsf)
     '''Mating selection'''
-    xa = random.randint(0, miu - 1)
-    xb = xa
-    while xb == xa:
-        xb = random.randint(0, miu  - 1)
+    (xa, xb) = biTournamentMS()
     '''Crossover'''
     u = crossover(xa, xb)
     '''Mutation'''
@@ -119,6 +144,7 @@ print("Time used:", elapsed)
 
 fp = open("GA(miu+1)_Log.txt", "a") #追加方式打开
 fp.write("Parameter:\n")
+fp.write("binary tournament mating selection\n")
 fp.write("worst individual environmental selection\n")
 fp.write("Result:\n")
 fp.write("miu:" + str(miu) + "\n")
