@@ -7,7 +7,8 @@ start = time.clock()
 '''Initialization phase'''
 
 miu = 20
-d = 50
+d = 54
+fstar = d
 pm = 1 / d
 x = [[0 for col in range(d)] for row in range(miu)]
 f = [0 for row in range(miu)]
@@ -17,9 +18,6 @@ t = 1
 n = 1
 nmax = 1000000000000000
 
-def evaluate(a):
-  return sum(a)
-
 def init():
     for i in range(miu):
         for j in range(d):
@@ -28,6 +26,24 @@ def init():
                 x[i][j] = 0
             else:
                 x[i][j] = 1
+
+'''objective function'''
+def oneMax(a):
+    return sum(a)
+
+def order3deceptive(a):
+    s = 0
+    j = 0
+    fo = [[28, 26],[22, 0]], [[14, 0], [0, 30]]
+    while j + 2 < d:
+        s = s + fo[a[j]][a[j + 1]][a[j + 2]]
+        j = j + 3
+    return s
+
+def evaluate(a):
+    global fstar
+    fstar = int(30 * d / 3)
+    return order3deceptive(a)
 
 '''Mating Selection'''
 def randMS():
@@ -105,7 +121,7 @@ for i in range(miu):
         fxbsf = f[i]
 
 
-while fxbsf < d and n < nmax:
+while fxbsf < fstar and n < nmax:
     if n % 1000000 == 0:
         print('n=', n)
         print('fxbsf=', fxbsf)
@@ -144,6 +160,7 @@ print("Time used:", elapsed)
 
 fp = open("GA(miu+1)_Log.txt", "a") #追加方式打开
 fp.write("Parameter:\n")
+fp.write("order-3 deceptive problem\n")
 fp.write("binary tournament mating selection\n")
 fp.write("worst individual environmental selection\n")
 fp.write("Result:\n")

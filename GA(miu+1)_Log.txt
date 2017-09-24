@@ -325,3 +325,40 @@ xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
 f(xbsf):50
 Time used:0.010313000000000003
 
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:54
+n:779608
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):540
+Time used:44.397034
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:54
+n:930795
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):540
+Time used:52.0638
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+worst individual environmental selection
+Result:
+miu:20
+d:54
+n:714597
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):540
+Time used:41.939859999999996
+
