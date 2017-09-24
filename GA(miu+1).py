@@ -4,8 +4,11 @@ import time
 
 start = time.clock()
 
-
 '''Initialization phase'''
+
+print("Parameter:")
+print("worst individual environmental selection")
+
 miu = 20
 d = 50
 pm = 1 / d
@@ -48,7 +51,20 @@ def bitFlip(u, pm):
                 u[j] = 0
             mutate = 1
     return mutate
+'''Environmental Selection'''
+def randES(u):
+    xc = random.randint(0, miu - 1)
+    fu = evaluate(u)
+    if fu >= f[xc]:
+        x[xc] = u
+        f[xc] = fu
 
+def worstES(u):
+    xc = f.index(min(f))
+    fu = evaluate(u)
+    if fu >= f[xc]:
+        x[xc] = u
+        f[xc] = fu
 
 '''Initialize the population P = {x1, ..., xμ} randomly'''
 init()
@@ -82,11 +98,10 @@ while fxbsf < d and n < nmax:
     if fxbsf < fu:
         xbsf = u
         fxbsf = fu
+
     '''Environmental selection'''
-    xc = random.randint(0, miu - 1)
-    if fu >= f[xc]:
-        x[xc] = u
-        f[xc] = fu
+    worstES(u)
+
     t = t + 1
 
 '''Result'''
@@ -103,6 +118,8 @@ print("Time used:", elapsed)
 
 
 fp = open("GA(miu+1)_Log.txt", "a") #追加方式打开
+fp.write("Parameter:\n")
+fp.write("worst individual environmental selection\n")
 fp.write("Result:\n")
 fp.write("miu:" + str(miu) + "\n")
 fp.write("d:" + str(d) + "\n")
