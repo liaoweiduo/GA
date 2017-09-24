@@ -1,3 +1,4 @@
+import os
 import random
 import time
 
@@ -22,7 +23,8 @@ def evaluate(a):
 def init():
     for i in range(miu):
         for j in range(d):
-            if random.random() < 0.5:
+            ra = random.random()
+            if ra < 0.5:
                 x[i][j] = 0
             else:
                 x[i][j] = 1
@@ -60,11 +62,15 @@ for i in range(miu):
 
 
 while fxbsf < d and n < nmax:
+    if n % 1000000 == 0:
+        print('n=', n)
+        print('fxbsf=', fxbsf)
+        print('xbsf=', xbsf)
     '''Mating selection'''
     xa = random.randint(0, miu - 1)
     xb = xa
     while xb == xa:
-        xb = random.randint(0, miu - 1)
+        xb = random.randint(0, miu  - 1)
     '''Crossover'''
     u = crossover(xa, xb)
     '''Mutation'''
@@ -80,13 +86,27 @@ while fxbsf < d and n < nmax:
     xc = random.randint(0, miu - 1)
     if fu >= f[xc]:
         x[xc] = u
+        f[xc] = fu
     t = t + 1
 
 '''Result'''
+
+print("Result:")
+print("miu:", miu)
+print("d:", d)
 print("n:", n)
 print("xbsf:", xbsf)
 print("f(xbsf):", fxbsf)
 
-
 elapsed = (time.clock() - start)
 print("Time used:", elapsed)
+
+
+fp = open("GA(miu+1)_Log.txt", "a") #追加方式打开
+fp.write("Result:\n")
+fp.write("miu:" + str(miu) + "\n")
+fp.write("d:" + str(d) + "\n")
+fp.write("n:" + str(n) + "\n")
+fp.write("xbsf:" + str(xbsf) + "\n")
+fp.write("f(xbsf):"+ str(fxbsf) + "\n")
+fp.write("Time used:" + str(elapsed) + "\n\n")
