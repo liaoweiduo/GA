@@ -1,0 +1,104 @@
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:10
+d:50
+n:1001
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.03801
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:1
+d:50
+n:521
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.029082999999999998
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:841
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.034946000000000005
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:10
+d:50
+n:431
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.01832099999999999
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:20
+d:50
+n:1061
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.039731
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:30
+d:50
+n:1081
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.040129999999999985
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:40
+d:50
+n:1401
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.054606
+
+Parameter:
+order-3 deceptive problem
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:721
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.03232800000000001
+
