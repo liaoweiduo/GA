@@ -42,7 +42,7 @@ D.append((27462.5000, 12992.2222))
 
 
 miu = 20
-lamda = 5
+lamda = 20
 # fstar = 50
 pm = 1 / d
 x = [[0 for col in range(d)] for row in range(miu)]
@@ -51,7 +51,7 @@ xbsf = [0 for col in range(d)]
 fxbsf = -sys.maxsize - 1
 t = 1
 n = 0
-nmax = 1000000
+nmax = 10000
 
 '''randomly generating the initial solution x: Fisher-Yates's shuffle method'''
 def init():
@@ -169,10 +169,10 @@ for i in range(miu):
         fxbsf = f[i]
 
 while n < nmax:
-    if n % 100 == 0:
+    if n % (nmax / 10) == 0:
         print('n=', n)
         print('fxbsf=', fxbsf)
-        print('xbsf=', xbsf)
+        # print('xbsf=', xbsf)
     q = []
     for i in range(lamda):
         '''Mating selection'''
