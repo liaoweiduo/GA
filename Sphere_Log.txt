@@ -1,0 +1,267 @@
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+lamda:20
+d:5
+n:100000
+xbsf:[0.050751651847335114, 0.021138509935078115, -0.012123563874724392, 0.17682789609567895, -1.6398250711595808]
+f(xbsf):-2.723463916409681
+Time used:2.686284
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+lamda:20
+d:5
+n:100000
+xbsf:[-0.003398331694017546, 0.00660657794526825, 0.9674631032902763, 0.001565009544776595, -0.02269987623878664]
+f(xbsf):-0.9365577853946327
+Time used:2.735853
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+lamda:20
+d:5
+n:100000
+xbsf:[0.0016453431681931726, 0.005353878463336807, -0.00037441621738135443, -0.40913239544862745, -0.005257156344694679]
+f(xbsf):-0.16744846605460978
+Time used:2.6213290000000002
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:100000
+xbsf:[0.2800693041774848, -3.38482897360163, 1.3478410904763956, -1.8474446991369602, -11.449226981278745]
+f(xbsf):-147.85003198606256
+Time used:2.578779
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:100000
+xbsf:[7.519313813988729, 24.48738261996824, -5.131024626476942, 0.15610298704565376, 0.15228419854930947]
+f(xbsf):-682.5469601471696
+Time used:2.651812
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:100000
+xbsf:[-9.018434650161591, -0.9495323727937481, -0.24034686702462738, 4.363901059328443, 0.43638458508045047]
+f(xbsf):-101.52560584441083
+Time used:2.632307
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:10000
+xbsf:[-0.1800201578281702, -1.0534648583604214, -28.678149366515026, 0.9294113924036835, 2.8488622087662967]
+f(xbsf):-832.5582679740374
+Time used:0.281579
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000
+xbsf:[0.8664949561145283, -2.7710609369497883, 11.117134211096497, 0.5907466994843336, -8.092810503450325]
+f(xbsf):-197.86282880050064
+Time used:0.026840000000000003
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000
+xbsf:[2.2396990280131, 6.764149423821385, -9.814069746599518, -0.11178786731790351, -0.9044996640107857]
+f(xbsf):-147.91655032446104
+Time used:0.028889000000000012
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000
+xbsf:[-12.404581937389699, -2.3949889757316782, 0.9530461415352011, 17.366013545854106, -6.632317264851882]
+f(xbsf):-506.0839809596268
+Time used:0.042281
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000
+xbsf:[-0.4989986525103579, 0.0010514203124211837, 1.9766843578200974, -3.864951938954804, 12.464691651614476]
+f(xbsf):-174.4626732714006
+Time used:0.04692
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000
+xbsf:[-2.8490614964586807, 9.59975829937894, 0.46397002659265785, 3.0760047035041156, 0.4766001830452436]
+f(xbsf):-110.17673167313283
+Time used:0.058216000000000004
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000
+xbsf:[-31.409539095939614, -22.29448187754194, 21.972017371406523, 17.959799283813823, -3.4290981409928065]
+f(xbsf):-2300.685720152235
+Time used:0.052481
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:100000
+xbsf:[4.383921935365653e-21, -1.2900633676806357e-20, 4.890854593883367e-20, 1.6743658256743138e-21, 7.477926080866015e-21]
+f(xbsf):-2.636413866038616e-39
+Time used:7.012996
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:100000
+xbsf:[-2.958009897433999e-19, -1.1472776143250406e-18, 1.168705061838249e-18, -3.348332640433487e-19, -8.200261358419864e-19]
+f(xbsf):-3.55417184960474e-36
+Time used:2.818956
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000000
+xbsf:[-4.85781465806773e-163, -6.885673969111177e-163, -7.384754540085597e-163, 9.628908847020013e-163, 9.538685470645359e-163]
+f(xbsf):-0.0
+Time used:27.721772
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000000
+xbsf:[-9.424776011034764e-163, -1.5608847225068813e-162, -2.4529821018158427e-163, -1.518123087328897e-162, 1.4700943353289545e-162]
+f(xbsf):-0.0
+Time used:27.544281
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000000
+xbsf:[-7.854911335962038e-163, 7.45041488851258e-163, 1.5061071337485106e-162, -9.4552047539965e-163, -8.860440226382569e-163]
+f(xbsf):-0.0
+Time used:27.636342
+
+Parameter:
+binary tournament mating selection
+BLX_alpha
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:1000000
+xbsf:[3.0263929828850775e-32, -8.442676398849394e-34, -3.534616657794103e-32, 6.1390377550553795e-24, 4.3027116403384803e-32]
+f(xbsf):-3.768778455799539e-47
+Time used:29.021207999999998
+
+Parameter:
+binary tournament mating selection
+BLX_alpha alpha=1
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:100000
+xbsf:[-4.585974002104506e-13, -1.9623252886507677e-13, 2.996019377433802e-13, 6.35464866856039e-05, 1.0396335981244378e-13]
+f(xbsf):-4.038155970083635e-09
+Time used:2.892036
+
+Parameter:
+binary tournament mating selection
+BLX_alpha alpha=1
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:10000
+xbsf:[3.60185359765461e-10, 6.509315156989943e-11, 0.00022552077190680418, 9.422226462326251e-11, -4.192248378410417e-10]
+f(xbsf):-5.08596185617594e-08
+Time used:0.294379
+
+Parameter:
+binary tournament mating selection
+BLX_alpha alpha=1
+PQ union environmental selection
+Result:
+miu:20
+d:5
+n:10000
+xbsf:[-1.529761111164188e-14, -3.616476241547425e-19, -1.1040593084582242e-18, -1.3777830586512029e-18, -1.0806134592019637e-18]
+f(xbsf):-2.3401691013877666e-28
+Time used:0.28757
+
