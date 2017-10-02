@@ -1,5 +1,5 @@
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -12,7 +12,7 @@ f(xbsf):50
 Time used:0.03801
 
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -25,7 +25,7 @@ f(xbsf):50
 Time used:0.029082999999999998
 
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -38,7 +38,7 @@ f(xbsf):50
 Time used:0.034946000000000005
 
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -51,7 +51,7 @@ f(xbsf):50
 Time used:0.01832099999999999
 
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -64,7 +64,7 @@ f(xbsf):50
 Time used:0.039731
 
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -77,7 +77,7 @@ f(xbsf):50
 Time used:0.040129999999999985
 
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -90,7 +90,7 @@ f(xbsf):50
 Time used:0.054606
 
 Parameter:
-order-3 deceptive problem
+oneMax evaluation
 binary tournament mating selection
 PQ union environmental selection
 Result:
@@ -101,4 +101,108 @@ n:721
 xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 f(xbsf):50
 Time used:0.03232800000000001
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:911
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.03687800000000001
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:746
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.029683
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:356
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.015200000000000005
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:1236
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.053604999999999986
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:806
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.032274
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:676
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.028234999999999996
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:621
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.030458
+
+Parameter:
+oneMax evaluation
+binary tournament mating selection
+PQ union environmental selection
+Result:
+miu:20
+lamda:5
+d:50
+n:936
+xbsf:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+f(xbsf):50
+Time used:0.039259
 

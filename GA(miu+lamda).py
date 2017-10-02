@@ -181,7 +181,7 @@ print("Time used:", elapsed)
 
 fp = open("GA(miu+lamda)_Log.txt", "a") #追加方式打开
 fp.write("Parameter:\n")
-fp.write("order-3 deceptive problem\n")
+fp.write("oneMax evaluation\n")
 fp.write("binary tournament mating selection\n")
 fp.write("PQ union environmental selection\n")
 fp.write("Result:\n")
